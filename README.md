@@ -21,7 +21,7 @@
 
 <br />
 
-**Engineering Team Principles** is blah blah.
+**Engineering Team Principles** enables blah blah.
 
 
 
