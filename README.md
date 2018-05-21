@@ -63,7 +63,7 @@
 
 ## Books
 
-- To be updated
+- [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Chang](http://shop.oreilly.com/product/0636920056843.do)
 
 
 ## Videos
