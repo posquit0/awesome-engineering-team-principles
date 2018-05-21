@@ -41,7 +41,7 @@
 
 ## Articles
 
-- To be updated
+- [Defining Principles for Software Engineering](https://theplainprogrammer.com/defining-principles-for-software-engineering-e88c069a0446)
 
 
 ## Books
