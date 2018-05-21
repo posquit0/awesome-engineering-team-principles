@@ -1,5 +1,31 @@
 # Awesome Engineering Team Principles
 
+<div align="center">
+  <a href="awesome-engineering-team-principles" title="Awesome Engineering Team Principles">
+    <img alt="Omega" src="https://adc3ef35f321fe6e725a-fb8aac3b3bf42afe824f73b606f0aa4c.ssl.cf1.rackcdn.com/tenantlogos/19935.png" width="220px" />
+  </a>
+  <br />
+  <h1>Awesome Engineering Team Principles</h1>
+</div>
+
+<p align="center">
+  :fire: A curated list of awesome resources for engineering team principles
+</p>
+
+<div align="center">
+  <a href="https://awesome.re">
+		<img src="https://awesome.re/badge.svg" alt="Awesome">
+	</a>
+  <a href="https://github.com/ellerbrock/open-source-badge/">
+    <img alt="Open Source Love" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" />
+  </a>
+</div>
+
+<br />
+
+**Engineering Team Principles** is blah blah.
+
+
 
 ## Contents
 
@@ -12,7 +38,7 @@
 
 ## Real World
 
-- To be updated
+- [Medium](https://medium.engineering/engineering-values-7143c0db0bd6)
 
 
 ## Articles
