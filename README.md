@@ -21,7 +21,7 @@
 
 <br />
 
-**Engineering Team Principles** enables blah blah.
+**Engineering Team Principles** define how engineers respond to situations and how engineers make decisions as a team player. They are about what we hold true, what we consider good, what we consider to be bad. They should influence how evolve and grow Engineering Organization. They are not immutable, always try to refine them. *-- Dan, Medium*
 
 
 
