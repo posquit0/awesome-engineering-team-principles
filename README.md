@@ -36,7 +36,14 @@
 
 ## Real World
 
-- [Medium](https://medium.engineering/engineering-values-7143c0db0bd6)
+### Medium
+
+- [Article](https://medium.engineering/engineering-values-7143c0db0bd6)
+
+### Khan Academy
+
+- [Article](http://engineering.khanacademy.org/posts/engineering-principles.htm)
+- [Docs](https://docs.google.com/document/d/1PW4NYn9pYNam2EuGEsTN9pTgwTfFnT_R9OZLJJICWQU)
 
 
 ## Articles
