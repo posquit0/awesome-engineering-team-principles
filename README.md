@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  :fire: A curated list of awesome resources for engineering team principles
+  :sunglasses: A curated list of awesome resources for engineering team principles
 </p>
 
 <div align="center">
