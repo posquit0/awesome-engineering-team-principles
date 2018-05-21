@@ -28,10 +28,11 @@
 ## Contents
 
 * [Real World](#real-world)
-* [Articles](#articles)
-* [Books](#books)
-* [Videos](#videos)
-* [Discussions](#discussion)
+* [Resources](#resources)
+  * [Articles](#articles)
+  * [Books](#books)
+  * [Videos](#videos)
+  * [Discussions](#discussion)
 
 
 ## Real World
@@ -56,22 +57,21 @@
 - [Docs](https://github.com/AbleHealth/team/blob/master/engineering/principles-and-practices.md)
 
 
-## Articles
+## Resources
+
+### Articles
 
 - [Defining Principles for Software Engineering](https://theplainprogrammer.com/defining-principles-for-software-engineering-e88c069a0446)
 
-
-## Books
+### Books
 
 - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](http://shop.oreilly.com/product/0636920056843.do) by *Camille Fournier*
 
-
-## Videos
+### Videos
 
 - To be updated
 
-
-## Discussions
+### Discussions
 
 - To be updated
 
