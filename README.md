@@ -45,6 +45,16 @@
 - [Article](http://engineering.khanacademy.org/posts/engineering-principles.htm)
 - [Docs](https://docs.google.com/document/d/1PW4NYn9pYNam2EuGEsTN9pTgwTfFnT_R9OZLJJICWQU)
 
+### Gusto
+
+- [Article](https://engineering.gusto.com/our-engineering-values-and-principles/)
+- [Docs](https://app.gusto.com/static/engineering-principles-and-values.pdf)
+- [Discussion](https://news.ycombinator.com/item?id=9721767)
+
+### Able Health
+
+- [Docs](https://github.com/AbleHealth/team/blob/master/engineering/principles-and-practices.md)
+
 
 ## Articles
 
