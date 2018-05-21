@@ -1,5 +1,3 @@
-# Awesome Engineering Team Principles
-
 <div align="center">
   <a href="awesome-engineering-team-principles" title="Awesome Engineering Team Principles">
     <img alt="Omega" src="https://adc3ef35f321fe6e725a-fb8aac3b3bf42afe824f73b606f0aa4c.ssl.cf1.rackcdn.com/tenantlogos/19935.png" width="220px" />
