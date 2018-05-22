@@ -30,6 +30,7 @@
 * [Real World](#real-world)
   * [Medium](#medium)
   * [Intercom](#intercom)
+  * [Imgur](#imgur)
   * [Khan Academy](#khan-academy)
   * [Gusto](#gusto)
   * [Able Health](#able-health)
@@ -50,6 +51,10 @@
 ### Intercom
 
 - [Article](https://blog.intercom.com/the-engineering-values-we-live-by/) - Build strong values to build great products
+
+### Imgur
+
+- [Article](https://blog.imgur.com/2018/02/13/guiding-principles-for-imgur-engineers/) - Guiding Principles for Imgur Engineers
 
 ### Khan Academy
 
