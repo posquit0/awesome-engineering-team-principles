@@ -44,11 +44,11 @@
 
 ### Medium
 
-- [Article](https://medium.engineering/engineering-values-7143c0db0bd6)
+- [Article](https://medium.engineering/engineering-values-7143c0db0bd6) - Engineering Values: A letter to the Medium Engineering team
 
 ### Khan Academy
 
-- [Article](http://engineering.khanacademy.org/posts/engineering-principles.htm)
+- [Article](http://engineering.khanacademy.org/posts/engineering-principles.htm) - Khan Academy's Engineering Principles
 - [Docs](https://docs.google.com/document/d/1PW4NYn9pYNam2EuGEsTN9pTgwTfFnT_R9OZLJJICWQU)
 
 ### Gusto
