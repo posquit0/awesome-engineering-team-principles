@@ -53,7 +53,7 @@
 
 ### Gusto
 
-- [Article](https://engineering.gusto.com/our-engineering-values-and-principles/)
+- [Article](https://engineering.gusto.com/our-engineering-values-and-principles/) - Gusto's Engineering Principles and Values
 - [Docs](https://app.gusto.com/static/engineering-principles-and-values.pdf)
 - [Discussion](https://news.ycombinator.com/item?id=9721767)
 
@@ -63,7 +63,7 @@
 
 ### Nava
 
-- [Article](https://blog.navapbc.com/defining-engineering-culture-engineering-principles-558d2b4c5950)
+- [Article](https://blog.navapbc.com/defining-engineering-culture-engineering-principles-558d2b4c5950) - Defining Culture: Engineering Principles
 
 
 ## Resources
