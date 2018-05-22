@@ -29,6 +29,7 @@
 
 * [Real World](#real-world)
   * [Medium](#medium)
+  * [Intercom](#intercom)
   * [Khan Academy](#khan-academy)
   * [Gusto](#gusto)
   * [Able Health](#able-health)
@@ -45,6 +46,10 @@
 ### Medium
 
 - [Article](https://medium.engineering/engineering-values-7143c0db0bd6) - Engineering Values: A letter to the Medium Engineering team
+
+### Intercom
+
+- [Article](https://blog.intercom.com/the-engineering-values-we-live-by/) - Build strong values to build great products
 
 ### Khan Academy
 
