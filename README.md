@@ -62,6 +62,7 @@
 ### Articles
 
 - [Defining Principles for Software Engineering](https://theplainprogrammer.com/defining-principles-for-software-engineering-e88c069a0446)
+- [Principles of Successful Software Engineering Teams](https://blog.brunomiranda.com/principles-of-successful-software-engineering-teams-41a65bfd56b3) - Highlight important principles of a successful team's philosophy
 
 ### Books
 
