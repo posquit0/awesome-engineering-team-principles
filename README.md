@@ -56,6 +56,10 @@
 
 - [Docs](https://github.com/AbleHealth/team/blob/master/engineering/principles-and-practices.md)
 
+### Nava
+
+- [Article](https://blog.navapbc.com/defining-engineering-culture-engineering-principles-558d2b4c5950)
+
 
 ## Resources
 
