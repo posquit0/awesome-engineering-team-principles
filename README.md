@@ -86,7 +86,7 @@
 
 ### Books
 
-- [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](http://shop.oreilly.com/product/0636920056843.do) by *Camille Fournier*
+- [Chapter 9 Bootstrapping Culture, The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](http://shop.oreilly.com/product/0636920056843.do) by *Camille Fournier* - Learn how to build and bootstrap a unifying culture in teams
 
 ### Videos
 
