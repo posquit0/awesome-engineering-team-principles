@@ -75,6 +75,10 @@
 
 - [Article](https://blog.navapbc.com/defining-engineering-culture-engineering-principles-558d2b4c5950) - Defining Culture: Engineering Principles
 
+### Google AI
+
+- [Article](https://blog.google/topics/ai/ai-principles/) - AI at Google: our principles
+
 
 ## Resources
 
