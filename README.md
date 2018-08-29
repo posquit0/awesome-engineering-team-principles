@@ -35,6 +35,7 @@
   * [Gusto](#gusto)
   * [Able Health](#able-health)
   * [Nava](#nava)
+  * [Showmax](#showmax)
 * [Resources](#resources)
   * [Articles](#articles)
   * [Books](#books)
@@ -79,6 +80,9 @@
 
 - [Article](https://blog.google/topics/ai/ai-principles/) - AI at Google: our principles
 
+### Showmax
+
+- [Article](https://tech.showmax.com/antonin-guide/) - CTO's guide to Showmax Engineering
 
 ## Resources
 
