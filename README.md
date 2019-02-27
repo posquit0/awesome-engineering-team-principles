@@ -35,6 +35,8 @@
   * [Gusto](#gusto)
   * [Able Health](#able-health)
   * [Nava](#nava)
+  * [Google AI](#google-ai)
+  * [Skyscanner](#skyscanner)
 * [Resources](#resources)
   * [Articles](#articles)
   * [Books](#books)
@@ -78,6 +80,11 @@
 ### Google AI
 
 - [Article](https://blog.google/topics/ai/ai-principles/) - AI at Google: our principles
+
+### Skyscanner
+
+- [Article](https://medium.com/@SkyscannerEng/why-engineering-principles-matter-993298f7d792) - Why engineering principles matter
+- [Docs](https://github.com/Skyscanner/engineering-principles)
 
 
 ## Resources
