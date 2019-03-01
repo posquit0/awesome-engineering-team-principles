@@ -48,24 +48,24 @@
 
 ### Medium
 
-* [Article](https://medium.engineering/engineering-values-7143c0db0bd6) - Engineering Values: A letter to the Medium Engineering team
+* [Engineering Values: A letter to the Medium Engineering team](https://medium.engineering/engineering-values-7143c0db0bd6)
 
 ### Intercom
 
-* [Article](https://blog.intercom.com/the-engineering-values-we-live-by/) - Build strong values to build great products
+* [Build strong values to build great products](https://blog.intercom.com/the-engineering-values-we-live-by/)
 
 ### Imgur
 
-* [Article](https://blog.imgur.com/2018/02/13/guiding-principles-for-imgur-engineers/) - Guiding Principles for Imgur Engineers
+* [Guiding Principles for Imgur Engineers](https://blog.imgur.com/2018/02/13/guiding-principles-for-imgur-engineers/)
 
 ### Khan Academy
 
-* [Article](http://engineering.khanacademy.org/posts/engineering-principles.htm) - Khan Academy's Engineering Principles
+* [Khan Academy's Engineering Principles](http://engineering.khanacademy.org/posts/engineering-principles.htm)
 * [Docs](https://docs.google.com/document/d/1PW4NYn9pYNam2EuGEsTN9pTgwTfFnT_R9OZLJJICWQU)
 
 ### Gusto
 
-* [Article](https://engineering.gusto.com/our-engineering-values-and-principles/) - Gusto's Engineering Principles and Values
+* [Gusto's Engineering Principles and Values](https://engineering.gusto.com/our-engineering-values-and-principles/)
 * [Docs](https://app.gusto.com/static/engineering-principles-and-values.pdf)
 * [Discussion](https://news.ycombinator.com/item?id=9721767)
 
@@ -75,15 +75,16 @@
 
 ### Nava
 
-* [Article](https://blog.navapbc.com/defining-engineering-culture-engineering-principles-558d2b4c5950) - Defining Culture: Engineering Principles
+* [Defining Culture: Engineering Principles](https://blog.navapbc.com/defining-engineering-culture-engineering-principles-558d2b4c5950)
 
 ### Google AI
 
-* [Article](https://blog.google/topics/ai/ai-principles/) - AI at Google: our principles
+* [AI at Google: our principles](https://blog.google/topics/ai/ai-principles/)
 
 ### Skyscanner
 
-* [Article](https://medium.com/@SkyscannerEng/why-engineering-principles-matter-993298f7d792) - Why engineering principles matter
+* [Why engineering principles matter](https://medium.com/@SkyscannerEng/why-engineering-principles-matter-993298f7d792)
+* [An update on our Engineering Principles](https://medium.com/@SkyscannerEng/an-update-on-our-engineering-principles-80405a96383a)
 * [Docs](https://github.com/Skyscanner/engineering-principles)
 
 
