@@ -37,6 +37,7 @@
   * [Nava](#nava)
   * [Google AI](#google-ai)
   * [Skyscanner](#skyscanner)
+  * [Conde Nast International](#conde-nast-international)
 * [Resources](#resources)
   * [Articles](#articles)
   * [Books](#books)
@@ -86,6 +87,10 @@
 * [Why engineering principles matter](https://medium.com/@SkyscannerEng/why-engineering-principles-matter-993298f7d792)
 * [An update on our Engineering Principles](https://medium.com/@SkyscannerEng/an-update-on-our-engineering-principles-80405a96383a)
 * [Docs](https://github.com/Skyscanner/engineering-principles)
+
+### Conde Nast International
+
+  * [How to build a platform team now! the secrets to successful engineering](https://hackernoon.com/how-to-build-a-platform-team-now-the-secrets-to-successful-engineering-8a9b6a4d2c8)
 
 
 ## Resources
