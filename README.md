@@ -122,6 +122,7 @@ Like this project? Follow the repository on [GitHub](https://github.com/posquit0
 
 ## See Also
 
+* [Awesome Engineer Onboarding](https://github.com/posquit0/awesome-engineer-onboarding)
 * [Awesome Engineering Ladders](https://github.com/posquit0/awesome-engineering-ladders)
 
 
