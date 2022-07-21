@@ -106,6 +106,7 @@
 
 * [Chapter 9 Bootstrapping Culture, The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](http://shop.oreilly.com/product/0636920056843.do) by *Camille Fournier* - Learn how to build and bootstrap a unifying culture in teams.
 * [Own Your Tech Career](https://www.manning.com/books/own-your-tech-career) by *Don Jones* - A book that helps you get what you want out of your technology career.
+* [Think Like a CTO](https://www.manning.com/books/think-like-a-cto) by *Alan Williamson* - This book shares the experience and advice of veteran CTOs and industry experts for handling IT crises, leading tech teams, and creating an inspiring vision for your company.
 
 ### Videos
 
