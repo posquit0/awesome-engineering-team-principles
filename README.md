@@ -105,10 +105,11 @@
 * [Defining Principles for Software Engineering](https://medium.com/the-plain-programmer/defining-principles-for-software-engineering-e88c069a0446) - Address how to define the principles that drive software engineering efforts.
 * [Principles of Successful Software Engineering Teams](https://blog.brunomiranda.com/principles-of-successful-software-engineering-teams-41a65bfd56b3) - Highlight important principles of a successful team's philosophy.
 * [Key Principles That Lead to High-Performing Engineering Teams](https://www.hugeinc.com/articles/key-principles-that-lead-to-high-performing-engineering-teams) - How to build a culture that consistently delivers a quality product, shortens lead times, and improves continuously.
-* [5 Principles on What Makes a Great Agile Development Team](http://blogs.starcio.com/2015/04/principles-great-agile-development-team.html) - Suggest a short list of what makes a well executing IT team great.
+* [Lead Developer Career Guide](https://www.manning.com/books/lead-developer-career-guide) - Learn the skills you need to be a lead developer, with expert advice on mentoring teams, handling clients and project managers, and keeping your head in emergencies.
 
 ### Books
 
+* [Chapter 9 Bootstrapping Culture, The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](http://shop.oreilly.com/product/0636920056843.do) by *Camille Fournier* - Learn how to build and bootstrap a unifying culture in teams.
 * [Chapter 9 Bootstrapping Culture, The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](http://shop.oreilly.com/product/0636920056843.do) by *Camille Fournier* - Learn how to build and bootstrap a unifying culture in teams.
 
 ### Videos
